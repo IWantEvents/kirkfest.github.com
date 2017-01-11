@@ -80,7 +80,7 @@ h2 {
 }
 
 .social-icons a {
-  font-size: 18px;
+  font-size: 30px;
   color: #fff;
   padding-left:20px;
 }
@@ -755,4 +755,34 @@ h2 {
 
 #footer a:hover {
   color:#1B7B98
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Added CSS */
+
+div.main-nav.fixed-menu.animated.slideInDown {
+  background-color: black;
+}
+
+div.main-nav.fixed-menu.animated.slideInDown a.navbar-brand {
+  width: 262px;
+}
+
+div.main-nav.fixed-menu.animated.slideInDown a.navbar-brand img.img-responsive {
+  position: absolute;
+  height: 108px;
+  width: 197px;
 }
